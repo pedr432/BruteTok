@@ -1,4 +1,18 @@
 ## Sobre
+
+
+<p align="center">
+  <Pre align="center">
+ ███████████                        █████             ███████████          █████     
+▒▒███▒▒▒▒▒███                      ▒▒███             ▒█▒▒▒███▒▒▒█         ▒▒███      
+ ▒███    ▒███ ████████  █████ ████ ███████    ██████ ▒   ▒███  ▒   ██████  ▒███ █████
+ ▒██████████ ▒▒███▒▒███▒▒███ ▒███ ▒▒▒███▒    ███▒▒███    ▒███     ███▒▒███ ▒███▒▒███ 
+ ▒███▒▒▒▒▒███ ▒███ ▒▒▒  ▒███ ▒███   ▒███    ▒███████     ▒███    ▒███ ▒███ ▒██████▒  
+ ▒███    ▒███ ▒███      ▒███ ▒███   ▒███ ███▒███▒▒▒      ▒███    ▒███ ▒███ ▒███▒▒███ 
+ ███████████  █████     ▒▒████████  ▒▒█████ ▒▒██████     █████   ▒▒██████  ████ █████
+▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒       ▒▒▒▒▒▒▒▒    ▒▒▒▒▒   ▒▒▒▒▒▒     ▒▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒                                                                         
+  </pre>
+</p>
  
 O `BruteTok` lê uma lista de senhas de um arquivo de texto e testa cada uma contra o endpoint de autenticação configurado, parando quando encontra uma credencial válida (ou ao esgotar a lista). O objetivo é **medir a resistência de senhas** em um ambiente controlado,por exemplo, validar que a política de senha de uma aplicação que você desenvolveu realmente bloqueia senhas fracas e aplica rate limiting.
  
