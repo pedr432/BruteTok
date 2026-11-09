@@ -4,7 +4,7 @@ O `BruteTok` lê uma lista de senhas de um arquivo de texto e testa cada uma con
  
 ## Funcionalidades
  
-- **Wordlist configurável:** basta apontar para outro arquivo `.txt` para trocar completamente o conjunto de senhas testadas, uma senha por linha.
+- **Wordlist configurável:** basta apontar para outra wordlist `.txt` para trocar completamente o conjunto de senhas testadas, uma senha por linha.
 - **Alvo e payload configuráveis:** URL do endpoint, nome do campo de usuário e de senha ajustáveis para casar com a aplicação de teste.
 - **Controle de ritmo (rate limiting):** intervalo configurável entre tentativas, para não derrubar o ambiente de teste e respeitar os limites acordados no escopo.
 - **Log claro de resultados:** cada tentativa é registrada com seu status, e uma credencial válida é destacada ao final.
