@@ -68,6 +68,6 @@ Wordlists comuns para fins de treino acompanham distribuições como a Kali Linu
 - **Reporte** as senhas fracas encontradas ao responsável pelo sistema e recomende correções (política de senha forte, MFA, bloqueio após N tentativas, detecção de ataques automatizados).
 ## O que um bom sistema deve ter (o outro lado)
  
-Testar credenciais só faz sentido se você souber o que recomendar depois. Um login bem defendido costuma ter: política de senha forte, autenticação multifator (MFA), rate limiting e bloqueio temporário após várias falhas, e monitoramento de tentativas anômalas. Se a sua ferramenta de teste consegue avançar sem esbarrar em nenhuma dessas barreiras, esse é exatamente o achado a reportar.
+Testar credenciais só faz sentido se você souber o que recomendar depois. Um login bem defendido costuma ter: política de senha forte, autenticação multifator (MFA), rate limiting e bloqueio temporário após várias falhas(Mas aqui você pode ficar tranquilo porque ele troca o proxy a cada tentaiva), e monitoramento de tentativas anômalas. Use com consciência
  
  ## Fé fé ✌🏻✌🏻
