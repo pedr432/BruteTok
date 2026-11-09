@@ -31,9 +31,7 @@ Abra o `script.py` e ajuste as variáveis de configuração para apontar para o 
  
 ```python
 TARGET_URL = "http://localhost:8080/login"   # endpoint da SUA aplicação de laboratório
-USERNAME   = "usuario_de_teste"               # conta de teste que você criou para a avaliação
-WORDLIST   = "wordlist.txt"                    # arquivo com as senhas a testar
-DELAY      = 1.0                               # segundos entre tentativas (respeite o escopo)
+USERNAME   = "seu_usuario_aqui"               # conta de teste que você criou para a avaliação
 ```
  
 > Defina `TARGET_URL` apenas para um sistema que você controla ou está autorizado a testar. Nunca aponte para um serviço de produção de terceiros.
