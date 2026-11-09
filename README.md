@@ -17,10 +17,9 @@ O `BruteTok` lê uma lista de senhas de um arquivo de texto e testa cada uma con
 ```bash
 git clone <https://github.com/pedr432/BruteTok.git>
 cd BruteTok
-pip install -r requirements.txt
 ```
  
-Se preferir, instale a dependência diretamente:
+instale a dependência diretamente:
  
 ```bash
 pip install requests
