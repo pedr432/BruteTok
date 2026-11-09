@@ -3,7 +3,6 @@ import time
 import random
 from urllib.parse import urljoin
 
-# Configurações Iniciais
 TARGET_URL = "https://www.tiktok.com/api/user/account/login/"
 USERNAME = "seu_usuario_aqui"  # Substitua pelo nome de usuário existente
 PROXY_LIST = [
