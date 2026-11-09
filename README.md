@@ -16,7 +16,7 @@ O `BruteTok` lê uma lista de senhas de um arquivo de texto e testa cada uma con
  
 ```bash
 git clone <https://github.com/pedr432/BruteTok.git>
-cd Gopython
+cd BruteTok
 pip install -r requirements.txt
 ```
  
